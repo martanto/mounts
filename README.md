@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
 ![PyPI](https://img.shields.io/pypi/v/mounts-project?label=pypi)
-![Downloads](https://img.shields.io/pypi/dm/mounts-project?label=downloads)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/mounts-project?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLUE&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/mounts-project)
 
 Unofficial Python package
 for [MOUNTS — Monitoring Unrest From Space](http://www.mounts-project.com).
